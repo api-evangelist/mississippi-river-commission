@@ -1,15 +1,21 @@
-name: mississippi-river-commission
-description: Needs a description.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/apis-json.png
-url: https://example.com/apis/apis.yml
-type: Contract
-created: '2024-12-25'
-modified: '2024-12-25'
-specificationVersion: '0.18'
+aid: mississippi-river-commission
+name: Mississippi River Commission
+description: The Mississippi River Commission (MRC) is a federal agency that oversees the management and improvement of the Mississippi River and its tributaries, including flood control, navigation, and environmental stewardship.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.mvd.usace.army.mil/Missions/Mississippi-River-Science-Technology/Mississippi-River-Commission-MRC/
 tags:
-  - Tag
+  - Federal Government
+  - Mississippi River
+  - Flood Control
+  - Navigation
+created: '2024-12-25'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.mvd.usace.army.mil/Missions/Mississippi-River-Science-Technology/Mississippi-River-Commission-MRC/
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
