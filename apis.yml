@@ -25,6 +25,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mississippi-river-commission
   - type: Website
     url: https://www.mvd.usace.army.mil/Missions/Mississippi-River-Science-Technology/Mississippi-River-Commission-MRC/
   - type: ParentOrganization
