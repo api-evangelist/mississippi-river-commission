@@ -25,6 +25,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mississippi-river-commission-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/mississippi-river-commission
   - type: Website
