@@ -10,7 +10,18 @@ description: >-
   River, including flood control, navigation, environmental management, and
   related engineering and policy work executed through six district offices.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mississippi-river-commission.png
 url: https://www.mvd.usace.army.mil/Missions/Mississippi-River-Science-Technology/Mississippi-River-Commission-MRC/
 tags:
   - Federal Government
