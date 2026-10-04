@@ -35,7 +35,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mississippi-river-commission.png
 url: https://www.mvd.usace.army.mil/Missions/Mississippi-River-Science-Technology/Mississippi-River-Commission-MRC/
 tags:
-  - Federal-Government
+  - Federal Government
   - Flood Control
   - Mississippi River
   - Navigation
@@ -50,6 +50,7 @@ tags_raw:
   - River Management
   - US Army Corps of Engineers
   - Water Resources
+  - Federal-Government
 created: '2024-12-25'
 modified: '2026-04-28'
 specificationVersion: '0.23'
